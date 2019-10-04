@@ -1,0 +1,68 @@
+* {
+	font-family: roboto;
+}
+
+
+h1 {
+	font-size: 36px;
+	line-height: 36px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3.bereidingswijze {
+	font-size: 32px;
+}
+
+p {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+p.tip {
+	border-left: 6px solid #def6ed;
+	background-color: #def6ed;
+	border-radius: 4px;
+	padding: 25px 25px 25px 25px;
+	font-size: 20px
+	line-height: 26px;
+}
+
+
+ul {
+	padding-left: 40px
+}
+
+ol {
+	padding-left: 40px
+}
+
+ul {
+	font-size: 20px;
+	line-height: 26px;
+}
+
+ol{
+	font-size: 20px;
+	line-height: 26px;
+}
+
+#gehaktbrood {
+	margin-top: 20px;
+}
+
+#inktvis {
+	margin-top: 20px;
+}
+
+#pannacotta {
+	margin-top: 20px;
+}
+
+#content {
+	width: 1000px;
+	margin: 0px auto;
+	padding-bottom: 50px;
+}
